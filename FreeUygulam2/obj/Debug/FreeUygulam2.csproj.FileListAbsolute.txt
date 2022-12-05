@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\FreeUygulam2\FreeUygulam2\bin\Debug\FreeUygulam2.exe.config
+C:\Users\Furkan\source\repos\FreeUygulam2\FreeUygulam2\bin\Debug\FreeUygulam2.exe
+C:\Users\Furkan\source\repos\FreeUygulam2\FreeUygulam2\bin\Debug\FreeUygulam2.pdb
+C:\Users\Furkan\source\repos\FreeUygulam2\FreeUygulam2\obj\Debug\FreeUygulam2.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\FreeUygulam2\FreeUygulam2\obj\Debug\FreeUygulam2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\FreeUygulam2\FreeUygulam2\obj\Debug\FreeUygulam2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\FreeUygulam2\FreeUygulam2\obj\Debug\FreeUygulam2.exe
+C:\Users\Furkan\source\repos\FreeUygulam2\FreeUygulam2\obj\Debug\FreeUygulam2.pdb
